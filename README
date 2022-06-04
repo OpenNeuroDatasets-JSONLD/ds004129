@@ -4,6 +4,8 @@ Modality-agnostic files were copied over and the `CHANGES` file was updated.  Da
 
 `python phenotype.py segregate subject -i ds003982 -o segregated_subject`
 
+`phenotype.py` came from the GitHub repository: https://github.com/ericearl/bids-phenotype
+
 ## THE ORIGINAL DATASET ds003982 README FOLLOWS
 
 A comprehensive clinical, MRI, and MEG collection characterizing healthy research volunteers collected at the National Institute of Mental Health (NIMH) Intramural Research Program (IRP) in Bethesda, Maryland using medical and mental health assessments, diagnostic and dimensional measures of mental health, cognitive and neuropsychological functioning, structural and functional magnetic resonance imaging (MRI), along with diffusion tensor imaging (DTI), and a comprehensive magnetoencephalography battery (MEG).
